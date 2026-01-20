@@ -138,7 +138,7 @@ query = df_analysis.writeStream \
     .start()
 ```
 
-## Kode lengkap
+## 📁 Kode Lengkap
 BAGIAN 1: PERSIAPAN LINGKUNGAN (INFRASTRUKTUR)
 Langkah 1: Instalasi Dependensi (Java & Python Libraries)
 ```python
